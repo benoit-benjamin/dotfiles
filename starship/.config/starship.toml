@@ -1,0 +1,16 @@
+add_newline = false
+
+format =       "$character"
+right_format = "$directory"
+
+[character]
+success_symbol =            '>_'
+error_symbol =              '! >_'
+vimcmd_symbol =             '[N] >_'
+vimcmd_replace_one_symbol = '[R] >_'
+vimcmd_replace_symbol =     '[R] >_'
+vimcmd_visual_symbol =      '[V] >_'
+
+[directory]
+style = "white"
+
