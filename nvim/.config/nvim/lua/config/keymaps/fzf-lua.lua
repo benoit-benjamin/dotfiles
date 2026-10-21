@@ -13,7 +13,7 @@ local keymaps = {
     live_grep = {
         modes       = { 'n' },
         map         = "<Leader>fr",
-        command     = "<cmd>FzfLua live-greep<CR>",
+        command     = "<cmd>FzfLua live_grep<CR>",
         description = "Search for text coincidences using fzf",
         silent      = true
     }
