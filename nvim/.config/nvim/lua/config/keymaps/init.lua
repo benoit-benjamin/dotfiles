@@ -5,4 +5,4 @@ require("config.keymaps.configuration")
 require("config.keymaps.disabled")
 require("config.keymaps.buffer")
 require("config.keymaps.fzf-lua")
-
+require("config.keymaps.oil")

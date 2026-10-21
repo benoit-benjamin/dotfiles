@@ -12,7 +12,7 @@ local keymaps = {
     },
     quit = {
         modes       = { 'n' },
-        map         = "<Leader>q",
+        map         = "<Leader><Esc>",
         command     = "<cmd>q<CR>",
         description = "Closes the current buffer",
         silent      = true
