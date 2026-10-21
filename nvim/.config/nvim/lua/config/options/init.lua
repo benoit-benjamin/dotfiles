@@ -6,4 +6,5 @@ require("config.options.text")
 require("config.options.ui")
 require("config.options.editing")
 require("config.options.miscellaneous")
+require("config.options.colorscheme")
 
